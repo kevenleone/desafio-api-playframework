@@ -20,9 +20,7 @@ Como iniciar o servidor
 4. após usar o comando compile e eclipse já é possível importar o projeto dentro do eclipse
 5. para rodar o servidor dentro do terminal basta usar o comando ~run
 
-Aplicação testada e utilizada em ambiente <b>LINUX<b>
-
-
+Aplicação testada e utilizada em ambiente <b>LINUX</b>
 
 Postman utilizado para testes com os tipos de requisições (PUT,POST,GET,DELETE)
 
