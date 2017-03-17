@@ -1,7 +1,7 @@
 # desafio-api
 
 
-<h2>Utilizado<h2>
+<h2>Utilizado</h2>
 
 * Banco MYSQL
 * Play framework
