@@ -17,7 +17,11 @@ Como iniciar o servidor
 1. Acesse o diretório do projeto via terminal
 2. ex / cd Downloads -> cd desafio-api -> ../activator-1.3.10-minimal/bin/activator
 3. se for a primeira vez que for utilizar usar primeiro os comandos (compile, eclipse) separadamente.
-4. para rodar o servidor usar o comando ~run
+4. após usar o comando compile e eclipse já é possível importar o projeto dentro do eclipse
+5. para rodar o servidor dentro do terminal basta usar o comando ~run
+
+Aplicação testada e utilizada em ambiente <b>LINUX<b>
+
 
 
 Postman utilizado para testes com os tipos de requisições (PUT,POST,GET,DELETE)
