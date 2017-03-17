@@ -1,4 +1,4 @@
-# desafio-api
+# desafio-api com aplicação RESTful em Java
 
 
 <h2>Utilizado</h2>
