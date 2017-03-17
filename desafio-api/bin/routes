@@ -1,0 +1,15 @@
+GET		/usuario/novo				controllers.UsuarioController.formularioCadastroUsuario
+POST	/usuario/novo				controllers.UsuarioController.salvaUsuario
+# API
+
+POST    /usuario                     controllers.UsuarioController.adicionarUser()
+GET     /usuario                     controllers.UsuarioController.listarUser()
+GET     /usuario/:id                 controllers.UsuarioController.pegarUsuario(id: Int)
+GET     /searchperson               controllers.ApiController.doEmail(email: String)
+DELETE  /usuario/:id                controllers.UsuarioController.removerUsuario(id: Int)
+PUT     /usuario/:id                controllers.UsuarioController.atualizarUsuario(id: Int)
+GET 	/api/usuarios				controllers.ApiController.comFiltros
+GET		/api/usuarios/todos			controllers.ApiController.todos
+GET 	/api/usuarios/email/:email  controllers.ApiController.doEmail(email)
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+	
