@@ -13,6 +13,7 @@ Postman utilizado para testes com os tipos de requisições (PUT,POST,GET,DELETE
 
 
 <h3> Dentro do postman utilize a requisição específica para efetuar os testes </h3>
+
 Para cadastrar use com método POST : http://localhost:9000/usuario  --- EX: {"nome":"Lucas Pessoas", "email":"lucas@hotmail.com", "senha":"1233333", "telefone":"819992222"}<br>
 Para buscar use com método GET : http://localhost:9000/usuario/1<br>
 Para Remover use com método delete: http://localhost:9000/usuario/1<br>
